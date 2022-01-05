@@ -1,5 +1,5 @@
 # Quantum-Visualisation
-This project aims to offer a visualisation of the wave functions of the Energy Eigenstates for a Quantum Harmonic Oscillator using Mathematica. 
+This project aims to offer a visualisation tool for different simple problems in Quantum Mechanics. It offers plots the square of the wave functions of the energy eigenstates in such problems and also animation to show the time evolution of the probability densitiy for the position for superposed states (as the energy eigesntates dot evolve with time, they are stationary states).
 ## Square Well Potential
 The first problem analysed in this project was the Square Well potential. The problem was done in 1 dimension and in 2 dimensions.
 
