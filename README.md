@@ -10,3 +10,6 @@ The following figure shows an example of the square of the wave function in the 
 ![This is an image](/Results/Square1DN=20.png)
 
 The following figure shows the time evolution of the square of the wave function of an state that is the superposition of the first 20 excited states (all with equal probability).
+
+![Alt Text](/Results/Square1D20States.gif)
+
