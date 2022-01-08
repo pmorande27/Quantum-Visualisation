@@ -13,3 +13,14 @@ The following figure shows the time evolution of the square of the wave function
 
 ![Alt Text](/Results/Square1D20States.gif)
 
+## Harmonic Potential
+The second problem analyzed in this project was the Harmonic Potential. The problem was done again for 1 and 2 dimensions.
+
+The definition of this problem is similar to the first one, but in this case the potential V(x) is equal to the harmonic potential V(x) = kx^2. The problem was anaylized in a similar way than the first one. Firstly, the square of the wave functions of the energy eigesntates were obtained from the Schrodinger's equation (there is a numerical answer for each energy level in both 1D and 2D) and plots were made. Secondly animations of the time evolution of some special initial states were created by the decompisition of the initial wave functions into the superposition of energy eigenfunctions.
+The following figure shows an example of the square of the wave function in the state n= 30
+
+![Alt Text](/Results/Harmonic1DN=30.png)
+
+The following figure shows the time evolution of the square of the wave function of an stat that has as initial wave function the dirac delta function:
+
+![Alt Text](/Results/Harmonic1DDelta.gif)
