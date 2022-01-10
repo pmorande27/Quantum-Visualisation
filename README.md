@@ -24,4 +24,6 @@ The following figure shows an example of the square of the wave function in the 
 The following figure shows the time evolution of the square of the wave function of a state that has as initial wave function the Dirac delta function:
 
 ![Alt Text](/Results/Harmonic1DDelta.gif)
+Some important states of the Quantum Harmonic Oscillator are the Coherent States, which are eigenstates of the creation Operator. The following animation shows the time evolution of the square of the wave function of one of those states, as expected the result is that as time evolves the new state is still a coherent state.
+![Alt Text](/Results/Harmonic1DCoherent.gif)
 
